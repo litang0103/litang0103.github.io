@@ -1,0 +1,17 @@
+- category: Programming
+  items:
+    - Python
+    - PyTorch
+    - MATLAB
+
+- category: Deep Learning
+  items:
+    - Object Detection
+    - Anomaly Detection
+    - STFT / GAF Signal-to-Image Conversion
+
+- category: Hardware & Deployment
+  items:
+    - STM32
+    - Altium PCB Design
+    - Jetson Nano Edge Deployment
