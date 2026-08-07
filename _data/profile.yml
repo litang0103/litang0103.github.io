@@ -31,13 +31,14 @@ portrait_url: /assets/images/photos/portrait.jpg
 
 education:
 - name: Liaoning Technical University
+  logo: /assets/images/badges/liaoning-tech-logo.png
   position: >-
     M.Eng. in Electrical Engineering <br/>
     Rank 1/60, GPA 92.5/100
   date: Sep. 2024 - Jun. 2027
 - name: Hefei University
+  logo: /assets/images/badges/hefei-university-logo.png
   position: B.Eng. in Automation
-  # date: Sep. 2018 - Jul. 2022
 
 awards:
 - name: Academic Scholarship for Postgraduate Studies, Liaoning Technical University
