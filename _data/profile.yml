@@ -37,7 +37,7 @@ education:
   date: Sep. 2024 - Jun. 2027
 - name: Hefei University
   position: B.Eng. in Automation
-  date: Sep. 2018 - Jul. 2022
+  # date: Sep. 2018 - Jul. 2022
 
 awards:
 - name: Academic Scholarship for Postgraduate Studies, Liaoning Technical University
