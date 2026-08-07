@@ -1,4 +1,7 @@
 @charset "utf-8";
+html {
+    font-size: 18px; /* 默认是16px，调大这个数字整站文字和间距会按比例放大 */
+}
 body {
     font-family: "Lato", sans-serif;
     font-weight: 400;
