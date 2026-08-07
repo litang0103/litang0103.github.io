@@ -1,12 +1,12 @@
 <div class="my-3 bg-white shadow-sm rounded-xl">
     <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-laptop-code"></i> Skills</h6>
-    <div class="px-3 py-2 small">
+    <div class="px-3 py-2">
         {% for group in site.data.skills %}
         <div class="my-2">
             <div class="text-muted mb-1">{{ group.category }}</div>
             <div>
                 {% for item in group.items %}
-                <span class="badge badge-pill badge-light border mr-1 mb-1">{{ item }}</span>
+                <span class="badge badge-pill badge-light border mr-1 mb-1" style="font-size: 0.95rem;">{{ item }}</span>
                 {% endfor %}
             </div>
         </div>
