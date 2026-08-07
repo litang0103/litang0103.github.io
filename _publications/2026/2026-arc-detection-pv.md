@@ -1,6 +1,6 @@
 ---
 title:          "Arc detection of series faults in photovoltaic energy storage system"
-date:           2026-06-03 00:00:00 +0800
+date:           2026-03-03 00:00:00 +0800
 selected:       false
 pub:            "Proceedings of SPIE, 14136"
 pub_date:       "2026"
