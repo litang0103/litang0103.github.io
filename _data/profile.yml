@@ -21,7 +21,7 @@ orcid: 0009-0003-6908-3238
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I'm a second-year Master's student in Electrical Engineering at Liaoning Technical University, working on deep learning-based fault detection and anomaly detection in power systems. My research combines signal-to-image transformation (STFT/GAF) with object detection and anomaly detection architectures, validated through real hardware deployment on STM32 and Jetson Nano.
+    I'm a second-year Master's student in Electrical Engineering at Liaoning Technical University, working on deep learning-based fault detection and anomaly detection in power systems. My research combines signal-to-image transformation with object detection and anomaly detection architectures, validated through real hardware deployment on STM32 and Jetson Nano.
   </p>
   <p>
     I'm currently applying for PhD programs starting Fall 2027.
