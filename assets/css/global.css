@@ -97,4 +97,6 @@ div.lazy {
 
 .email-text {
     font-family: Source Code Pro, monospace;
+    font-size: 0.85rem;
+    word-break: break-all;
 }
